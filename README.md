@@ -33,6 +33,7 @@ This project aims to develop machine learning models for both classification and
 ## 📁 Project Structure
 
 ```
+
 SolarGuard/
 ├── app.py                      # Streamlit app
 ├── models/
@@ -47,6 +48,7 @@ SolarGuard/
 ├── final_yolo_dataset/        # YOLO-formatted dataset
 ├── requirements.txt
 └── README.md
+
 ```
 
 ---
