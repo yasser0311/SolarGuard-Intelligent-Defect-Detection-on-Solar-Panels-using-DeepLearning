@@ -1,0 +1,44 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.env
+*.venv
+.venv/
+env/
+venv/
+*.egg-info/
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === Virtual Environments ===
+.DS_Store
+*.swp
+.Python
+*.idea/
+.vscode/
+
+# === Streamlit Cache ===
+.streamlit/
+
+# === Dataset Folders (avoid pushing large datasets) ===
+data/
+final_yolo_dataset/
+runs/
+
+# === Model Weights ===
+*.pt
+*.h5
+models/
+
+# === OS / System Files ===
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+
+*.zip

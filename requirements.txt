@@ -1,0 +1,9 @@
+streamlit
+ultralytics==8.0.20
+opencv-python
+numpy
+pillow
+matplotlib
+seaborn
+pandas
+tensorflow==2.13.0
