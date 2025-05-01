@@ -1,7 +1,13 @@
 ```markdown
-# ⚡ SolarGuard
+# ⚡ Project Title: SolarGuard: Intelligent Defect Detection on Solar Panels using  DeepLearning
 
 **SolarGuard** is a deep learning-based system for real-time classification and detection of solar panel defects. It combines image classification (using CNN) and object detection (using YOLOv8) to monitor panel conditions, detect obstructions, and offer actionable maintenance recommendations.
+
+## Problem Statement:
+Solar energy is a crucial renewable resource, but the accumulation of dust, snow, bird droppings, and physical/electrical damage on solar panels reduces their efficiency. While manual monitoring is time-consuming and expensive, automated detection can help improve efficiency and reduce maintenance costs.
+This project aims to develop machine learning models for both classification and object detection to accurately identify and localize different types of obstructions or damages on solar panels. The objective is to:
+1. Classify solar panel images into six categories: Clean, Dusty, Bird-Drop, Electrical-Damage, Physical-Damage, and Snow-Covered.
+2. Detect and localize the presence of dust, bird droppings, or damages on the panel using object detection models.
 
 ---
 
@@ -109,10 +115,8 @@ python evaluate_and_visualize.py
 
 ## 📬 Contact
 
-Created by [Your Name] – feel free to reach out!
+Created by [M Mohammed Yasser] – feel free to reach out!
 
 ```
 
 ---
-
-Would you like me to add **badges**, GitHub deploy buttons, or customize it with your name and GitHub repo link?
