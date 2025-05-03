@@ -12,8 +12,6 @@ env/
 venv/
 *.egg-info/
 
-# === Jupyter Notebooks ===
-.ipynb_checkpoints/
 
 # === Virtual Environments ===
 .DS_Store
@@ -31,9 +29,9 @@ final_yolo_dataset/
 runs/
 
 # === Model Weights ===
-*.pt
-*.h5
-models/
+#*.pt
+#*.h5
+#models/
 
 # === OS / System Files ===
 Thumbs.db
